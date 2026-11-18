@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "LM Studio: Check LM Link Status",
+      "type": "shell",
+      "command": "powershell -ExecutionPolicy Bypass -File scripts/check_lm_link.ps1",
+      "problemMatcher": []
+    },
+    {
+      "label": "LM Studio: Start Local API Server",
+      "type": "shell",
+      "command": "lms server start --port 1234",
+      "problemMatcher": []
+    },
+    {
+      "label": "LocalStudies: Auto-Allocate Fleet Models",
+      "type": "shell",
+      "command": "uv run python -m localstudies.auto_allocator --apply",
+      "problemMatcher": []
+    },
+    {
+      "label": "LocalStudies: Index Samarco Files",
+      "type": "shell",
+      "command": "uv run python -m localstudies.samarco_index",
+      "problemMatcher": []
+    },
+    {
+      "label": "LocalStudies: Initialize Obsidian Vault",
+      "type": "shell",
+      "command": "uv run python -m localstudies.obsidian_vault --init",
+      "problemMatcher": []
+    },
+    {
+      "label": "LocalStudies: Open LM Studio Manager Chat",
+      "type": "shell",
+      "command": "uv run localstudies-chat --auto-allocate",
+      "problemMatcher": []
+    }
+  ]
+}

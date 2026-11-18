@@ -1,0 +1,4051 @@
+{
+  "total_catalog_dwgs": 1583,
+  "requested": 1583,
+  "skipped_existing": 1005,
+  "succeeded": 576,
+  "failed": 2,
+  "results": [
+    {
+      "file": "U0409RC-Y-500008_FL-14_R-02.dwg",
+      "ok": false,
+      "error": "Conversão concluída sem gerar C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\build\\dxf\\U0409RC-Y-500008_FL-14_R-02.dxf"
+    },
+    {
+      "file": "U0409RC-Y-500009_FL-11_R-02.dwg",
+      "ok": false,
+      "error": "Conversão concluída sem gerar C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\build\\dxf\\U0409RC-Y-500009_FL-11_R-02.dxf"
+    },
+    {
+      "file": "U030905-E-500025-F060R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F060R1\\U030905-E-500025-F060R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F061R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F061R1\\U030905-E-500025-F061R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F062R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F062R1\\U030905-E-500025-F062R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F063R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F063R1\\U030905-E-500025-F063R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F064R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F064R1\\U030905-E-500025-F064R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F065R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F065R1\\U030905-E-500025-F065R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F066R1.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F066R1\\U030905-E-500025-F066R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F067R2.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F067R2\\U030905-E-500025-F067R2.glb"
+    },
+    {
+      "file": "U030905-E-500025-F068R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F068R1\\U030905-E-500025-F068R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F069R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F069R1\\U030905-E-500025-F069R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F070R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F070R1\\U030905-E-500025-F070R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F071R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F071R1\\U030905-E-500025-F071R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F072R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F072R1\\U030905-E-500025-F072R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F073R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F073R1\\U030905-E-500025-F073R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F074R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F074R1\\U030905-E-500025-F074R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F075R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F075R1\\U030905-E-500025-F075R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F076R2.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F076R2\\U030905-E-500025-F076R2.glb"
+    },
+    {
+      "file": "U030905-E-500025-F077R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F077R1\\U030905-E-500025-F077R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F078R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F078R1\\U030905-E-500025-F078R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F079R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F079R1\\U030905-E-500025-F079R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F080R2.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F080R2\\U030905-E-500025-F080R2.glb"
+    },
+    {
+      "file": "U030905-E-500025-F081R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F081R1\\U030905-E-500025-F081R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F082R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F082R1\\U030905-E-500025-F082R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F083R2.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F083R2\\U030905-E-500025-F083R2.glb"
+    },
+    {
+      "file": "U030905-E-500025-F084R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F084R1\\U030905-E-500025-F084R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F085R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F085R1\\U030905-E-500025-F085R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F086R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F086R1\\U030905-E-500025-F086R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F087R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F087R1\\U030905-E-500025-F087R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F088R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F088R1\\U030905-E-500025-F088R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F089R1.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F089R1\\U030905-E-500025-F089R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F090R1.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F090R1\\U030905-E-500025-F090R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F091R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F091R1\\U030905-E-500025-F091R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F092R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F092R1\\U030905-E-500025-F092R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F093R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F093R1\\U030905-E-500025-F093R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F094R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F094R1\\U030905-E-500025-F094R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F095R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F095R1\\U030905-E-500025-F095R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F096R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F096R1\\U030905-E-500025-F096R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F097R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F097R1\\U030905-E-500025-F097R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F098R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F098R1\\U030905-E-500025-F098R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F099R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F099R1\\U030905-E-500025-F099R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F100R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F100R1\\U030905-E-500025-F100R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F101R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F101R1\\U030905-E-500025-F101R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F102R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F102R1\\U030905-E-500025-F102R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F103R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F103R1\\U030905-E-500025-F103R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F104R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F104R1\\U030905-E-500025-F104R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F105R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F105R1\\U030905-E-500025-F105R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F106R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 73,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F106R1\\U030905-E-500025-F106R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F107R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 82,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F107R1\\U030905-E-500025-F107R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F108R1.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F108R1\\U030905-E-500025-F108R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F109R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F109R1\\U030905-E-500025-F109R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F110R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F110R1\\U030905-E-500025-F110R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F111R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 98,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F111R1\\U030905-E-500025-F111R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F112R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F112R1\\U030905-E-500025-F112R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F113R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 98,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F113R1\\U030905-E-500025-F113R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F114R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 77,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F114R1\\U030905-E-500025-F114R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F115R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 34,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F115R1\\U030905-E-500025-F115R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F116R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 37,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F116R1\\U030905-E-500025-F116R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F117R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 35,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F117R1\\U030905-E-500025-F117R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F118R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 74,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F118R1\\U030905-E-500025-F118R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F119R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 74,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F119R1\\U030905-E-500025-F119R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F120R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 58,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F120R1\\U030905-E-500025-F120R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F121R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 33,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F121R1\\U030905-E-500025-F121R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F122R1.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F122R1\\U030905-E-500025-F122R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F123R1.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F123R1\\U030905-E-500025-F123R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F124R1.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F124R1\\U030905-E-500025-F124R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F125R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F125R1\\U030905-E-500025-F125R1.glb"
+    },
+    {
+      "file": "U030905-E-500025-F126R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500025-F126R1\\U030905-E-500025-F126R1.glb"
+    },
+    {
+      "file": "U030905-E-500028-F000R0.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 1,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F000R0\\U030905-E-500028-F000R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F001R0.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F001R0\\U030905-E-500028-F001R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F002R0.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F002R0\\U030905-E-500028-F002R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F003R0.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F003R0\\U030905-E-500028-F003R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F004R0.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F004R0\\U030905-E-500028-F004R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F005R0.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F005R0\\U030905-E-500028-F005R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F006R0.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F006R0\\U030905-E-500028-F006R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F007R0.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F007R0\\U030905-E-500028-F007R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F008R0.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F008R0\\U030905-E-500028-F008R0.glb"
+    },
+    {
+      "file": "U030905-E-500028-F009R0.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500028-F009R0\\U030905-E-500028-F009R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F000R0.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 1,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F000R0\\U030905-E-500030-F000R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F001R0.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F001R0\\U030905-E-500030-F001R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F002R0.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F002R0\\U030905-E-500030-F002R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F003R0.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F003R0\\U030905-E-500030-F003R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F004R0.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F004R0\\U030905-E-500030-F004R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F005R0.dwg",
+      "ok": true,
+      "layers": 21,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F005R0\\U030905-E-500030-F005R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F006R0.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F006R0\\U030905-E-500030-F006R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F007R0.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F007R0\\U030905-E-500030-F007R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F008R0.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F008R0\\U030905-E-500030-F008R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F009R0.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F009R0\\U030905-E-500030-F009R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F010R0.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F010R0\\U030905-E-500030-F010R0.glb"
+    },
+    {
+      "file": "U030905-E-500030-F011R0.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500030-F011R0\\U030905-E-500030-F011R0.glb"
+    },
+    {
+      "file": "U030905-E-500035-R1.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 45,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500035-R1\\U030905-E-500035-R1.glb"
+    },
+    {
+      "file": "U030905-E-000045-r1.dwg",
+      "ok": true,
+      "layers": 22,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-000045-r1\\U030905-E-000045-r1.glb"
+    },
+    {
+      "file": "U030905-I-500001_R0.dwg",
+      "ok": true,
+      "layers": 27,
+      "inserts": 93,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-I-500001_R0\\U030905-I-500001_R0.glb"
+    },
+    {
+      "file": "U030905-E-500034-FL01-r0.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 1,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500034-FL01-r0\\U030905-E-500034-FL01-r0.glb"
+    },
+    {
+      "file": "U030905-E-500034-FL02-r0.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500034-FL02-r0\\U030905-E-500034-FL02-r0.glb"
+    },
+    {
+      "file": "U030905-E-500034-FL03-r0.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 31,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500034-FL03-r0\\U030905-E-500034-FL03-r0.glb"
+    },
+    {
+      "file": "U030905-E-500034-FL04-r0.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500034-FL04-r0\\U030905-E-500034-FL04-r0.glb"
+    },
+    {
+      "file": "U030905-E-500034-FL05-r0.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500034-FL05-r0\\U030905-E-500034-FL05-r0.glb"
+    },
+    {
+      "file": "U030905-E-500034-FL06-r0.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-E-500034-FL06-r0\\U030905-E-500034-FL06-r0.glb"
+    },
+    {
+      "file": "U030905-M-500001_R-03.dwg",
+      "ok": true,
+      "layers": 20,
+      "inserts": 41,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500001_R-03\\U030905-M-500001_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500003_R-01.dwg",
+      "ok": true,
+      "layers": 64,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500003_R-01\\U030905-M-500003_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500004_R-04.dwg",
+      "ok": true,
+      "layers": 29,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500004_R-04\\U030905-M-500004_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500005_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500005_R-02\\U030905-M-500005_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500006_R-05.DWG",
+      "ok": true,
+      "layers": 24,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500006_R-05\\U030905-M-500006_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500008_R-03.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500008_R-03\\U030905-M-500008_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500011-R02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 51,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500011-R02\\U030905-M-500011-R02.glb"
+    },
+    {
+      "file": "U030905-M-500013_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 76,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500013_R-02\\U030905-M-500013_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500015_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500015_R-02\\U030905-M-500015_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500017_R-05.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500017_R-05\\U030905-M-500017_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500018_R-04.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 13,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500018_R-04\\U030905-M-500018_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500020_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 42,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500020_R-02\\U030905-M-500020_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500021_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 39,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500021_R-02\\U030905-M-500021_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500023_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500023_R-02\\U030905-M-500023_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500024_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500024_R-02\\U030905-M-500024_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500025_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500025_R-02\\U030905-M-500025_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500026_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500026_R-02\\U030905-M-500026_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500027_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500027_R-02\\U030905-M-500027_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500028_R-03.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500028_R-03\\U030905-M-500028_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500029_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 13,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500029_R-02\\U030905-M-500029_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500031_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500031_R-03\\U030905-M-500031_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500035_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 41,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500035_R-02\\U030905-M-500035_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500037-R1.dwg",
+      "ok": true,
+      "layers": 26,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500037-R1\\U030905-M-500037-R1.glb"
+    },
+    {
+      "file": "U030905-M-500038_R-03.dwg",
+      "ok": true,
+      "layers": 20,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500038_R-03\\U030905-M-500038_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500041_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500041_R-02\\U030905-M-500041_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500042_R-03.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 19,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500042_R-03\\U030905-M-500042_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500044_R-03.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 22,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500044_R-03\\U030905-M-500044_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500046_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500046_R-02\\U030905-M-500046_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500048_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500048_R-02\\U030905-M-500048_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500050_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500050_R-02\\U030905-M-500050_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500052_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500052_R-02\\U030905-M-500052_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500054_R-05.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 14,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500054_R-05\\U030905-M-500054_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500056_R-05.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500056_R-05\\U030905-M-500056_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500058_R-03.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 21,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500058_R-03\\U030905-M-500058_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500060_R-04.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500060_R-04\\U030905-M-500060_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500062_R-06.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 79,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500062_R-06\\U030905-M-500062_R-06.glb"
+    },
+    {
+      "file": "U030905-M-500064_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 14,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500064_R-04\\U030905-M-500064_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500066_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500066_R-02\\U030905-M-500066_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500067_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 28,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500067_R-02\\U030905-M-500067_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500069_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 32,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500069_R-03\\U030905-M-500069_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500071_R-03.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 52,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500071_R-03\\U030905-M-500071_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500073_R-04.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 84,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500073_R-04\\U030905-M-500073_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500074_R-04.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 81,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500074_R-04\\U030905-M-500074_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500075_R-03.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 48,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500075_R-03\\U030905-M-500075_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500076_R-03.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 77,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500076_R-03\\U030905-M-500076_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500077_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 43,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500077_R-02\\U030905-M-500077_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500081_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 85,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500081_R-03\\U030905-M-500081_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500084_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500084_R-02\\U030905-M-500084_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500086_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 30,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500086_R-04\\U030905-M-500086_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500087_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500087_R-02\\U030905-M-500087_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500089_R-03.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500089_R-03\\U030905-M-500089_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500090_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500090_R-02\\U030905-M-500090_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500094_R-05.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 25,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500094_R-05\\U030905-M-500094_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500096_R-03.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 13,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500096_R-03\\U030905-M-500096_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500097_R-02.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 37,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500097_R-02\\U030905-M-500097_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500101_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 36,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500101_R-02\\U030905-M-500101_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500104_R-03.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 17,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500104_R-03\\U030905-M-500104_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500106_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500106_R-02\\U030905-M-500106_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500108_R-02.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 36,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500108_R-02\\U030905-M-500108_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500110_R-04.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500110_R-04\\U030905-M-500110_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500112_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500112_R-02\\U030905-M-500112_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500114_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500114_R-03\\U030905-M-500114_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500115_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 36,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500115_R-02\\U030905-M-500115_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500116-R1.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500116-R1\\U030905-M-500116-R1.glb"
+    },
+    {
+      "file": "U030905-M-500118-R1.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500118-R1\\U030905-M-500118-R1.glb"
+    },
+    {
+      "file": "U030905-M-500119_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500119_R-02\\U030905-M-500119_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500120_R-03.dwg",
+      "ok": true,
+      "layers": 19,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500120_R-03\\U030905-M-500120_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500122_R-02.dwg",
+      "ok": true,
+      "layers": 19,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500122_R-02\\U030905-M-500122_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500123_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 68,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500123_R-02\\U030905-M-500123_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500125_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500125_R-02\\U030905-M-500125_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500126_R-03.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500126_R-03\\U030905-M-500126_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500130_R-03.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 78,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500130_R-03\\U030905-M-500130_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500132_R-02.dwg",
+      "ok": true,
+      "layers": 23,
+      "inserts": 91,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500132_R-02\\U030905-M-500132_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500133_R-02.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500133_R-02\\U030905-M-500133_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500135_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500135_R-02\\U030905-M-500135_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500137_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500137_R-02\\U030905-M-500137_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500139_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 49,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500139_R-02\\U030905-M-500139_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500140_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500140_R-02\\U030905-M-500140_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500141_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500141_R-02\\U030905-M-500141_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500142_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500142_R-02\\U030905-M-500142_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500143_R-01.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500143_R-01\\U030905-M-500143_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500144_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 20,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500144_R-02\\U030905-M-500144_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500146_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500146_R-02\\U030905-M-500146_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500148_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500148_R-02\\U030905-M-500148_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500150_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 26,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500150_R-02\\U030905-M-500150_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500152_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 77,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500152_R-02\\U030905-M-500152_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500155_R-02.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 34,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500155_R-02\\U030905-M-500155_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500159_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 20,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500159_R-02\\U030905-M-500159_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500161_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500161_R-02\\U030905-M-500161_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500162_R-03.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500162_R-03\\U030905-M-500162_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500171_R-06.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500171_R-06\\U030905-M-500171_R-06.glb"
+    },
+    {
+      "file": "U030905-M-500174_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 74,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500174_R-03\\U030905-M-500174_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500176_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 31,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500176_R-03\\U030905-M-500176_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500177_R-03.dwg",
+      "ok": true,
+      "layers": 23,
+      "inserts": 61,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500177_R-03\\U030905-M-500177_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500180_R-04.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 49,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500180_R-04\\U030905-M-500180_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500181_R-04.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 70,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500181_R-04\\U030905-M-500181_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500183_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 51,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500183_R-03\\U030905-M-500183_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500193_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500193_R-02\\U030905-M-500193_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500194_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 56,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500194_R-02\\U030905-M-500194_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500195_R02.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500195_R02\\U030905-M-500195_R02.glb"
+    },
+    {
+      "file": "U030905-M-500199_R02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500199_R02\\U030905-M-500199_R02.glb"
+    },
+    {
+      "file": "U030905-M-500201_R02.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500201_R02\\U030905-M-500201_R02.glb"
+    },
+    {
+      "file": "U030905-M-500203_R-03.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500203_R-03\\U030905-M-500203_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500205_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 87,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500205_R-02\\U030905-M-500205_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500206_R02.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500206_R02\\U030905-M-500206_R02.glb"
+    },
+    {
+      "file": "U030905-M-500207_R02.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500207_R02\\U030905-M-500207_R02.glb"
+    },
+    {
+      "file": "U030905-M-500208_R02.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500208_R02\\U030905-M-500208_R02.glb"
+    },
+    {
+      "file": "U030905-M-500209_R02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 89,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500209_R02\\U030905-M-500209_R02.glb"
+    },
+    {
+      "file": "U030905-M-500214_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500214_R-02\\U030905-M-500214_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500216_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500216_R-02\\U030905-M-500216_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500217_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500217_R-02\\U030905-M-500217_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500218_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500218_R-02\\U030905-M-500218_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500221_R-01.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500221_R-01\\U030905-M-500221_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500223_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 1,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500223_R-02\\U030905-M-500223_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500225_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 45,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500225_R-03\\U030905-M-500225_R-03.glb"
+    },
+    {
+      "file": "U090305-M-500232_R-04.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U090305-M-500232_R-04\\U090305-M-500232_R-04.glb"
+    },
+    {
+      "file": "U090305-M-500233_R-04.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U090305-M-500233_R-04\\U090305-M-500233_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500235_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 69,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500235_R-02\\U030905-M-500235_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500237-R1.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500237-R1\\U030905-M-500237-R1.glb"
+    },
+    {
+      "file": "U030905-M-500241_R01.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500241_R01\\U030905-M-500241_R01.glb"
+    },
+    {
+      "file": "U030905-M-500243_R02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500243_R02\\U030905-M-500243_R02.glb"
+    },
+    {
+      "file": "U030905-M-500244_R02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500244_R02\\U030905-M-500244_R02.glb"
+    },
+    {
+      "file": "U030905-M-500245_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500245_R-02\\U030905-M-500245_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500246-R1.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500246-R1\\U030905-M-500246-R1.glb"
+    },
+    {
+      "file": "U030905-M-500249_R-05.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500249_R-05\\U030905-M-500249_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500250_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 78,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500250_R-03\\U030905-M-500250_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500251_R-04.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500251_R-04\\U030905-M-500251_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500252_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500252_R-04\\U030905-M-500252_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500253_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500253_R-04\\U030905-M-500253_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500254_R-07.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500254_R-07\\U030905-M-500254_R-07.glb"
+    },
+    {
+      "file": "U030905-M-500255_R-06.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500255_R-06\\U030905-M-500255_R-06.glb"
+    },
+    {
+      "file": "U030905-M-500257_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 63,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500257_R-02\\U030905-M-500257_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500259_R-02.dwg",
+      "ok": true,
+      "layers": 22,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500259_R-02\\U030905-M-500259_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500260_R-02.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 26,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500260_R-02\\U030905-M-500260_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500263_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 96,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500263_R-02\\U030905-M-500263_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500264_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500264_R-03\\U030905-M-500264_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500265_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 81,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500265_R-03\\U030905-M-500265_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500266_R-03.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 61,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500266_R-03\\U030905-M-500266_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500267_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500267_R-03\\U030905-M-500267_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500268_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 50,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500268_R-02\\U030905-M-500268_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500273_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500273_R-02\\U030905-M-500273_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500274_R-02.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500274_R-02\\U030905-M-500274_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500275_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500275_R-02\\U030905-M-500275_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500276_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500276_R-02\\U030905-M-500276_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500277_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 24,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500277_R-02\\U030905-M-500277_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500279_R-03.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500279_R-03\\U030905-M-500279_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500284_R-04.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 68,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500284_R-04\\U030905-M-500284_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500286_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 39,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500286_R-03\\U030905-M-500286_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500287_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500287_R-03\\U030905-M-500287_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500289_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 22,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500289_R-02\\U030905-M-500289_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500291_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500291_R-02\\U030905-M-500291_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500292_R-04.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 91,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500292_R-04\\U030905-M-500292_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500293_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500293_R-02\\U030905-M-500293_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500295_R-03.dwg",
+      "ok": true,
+      "layers": 20,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500295_R-03\\U030905-M-500295_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500297_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500297_R-02\\U030905-M-500297_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500298_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 95,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500298_R-02\\U030905-M-500298_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500299_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 36,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500299_R-02\\U030905-M-500299_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500300_R-04.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500300_R-04\\U030905-M-500300_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500304_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500304_R-02\\U030905-M-500304_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500305_R-01.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500305_R-01\\U030905-M-500305_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500306_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 21,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500306_R-02\\U030905-M-500306_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500309_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500309_R-02\\U030905-M-500309_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500310_R-03.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500310_R-03\\U030905-M-500310_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500311_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500311_R-02\\U030905-M-500311_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500312_R-04.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 75,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500312_R-04\\U030905-M-500312_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500316_R-03.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500316_R-03\\U030905-M-500316_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500319_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 52,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500319_R-02\\U030905-M-500319_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500320_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 75,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500320_R-02\\U030905-M-500320_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500322_R-03.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500322_R-03\\U030905-M-500322_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500323_R-03.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 92,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500323_R-03\\U030905-M-500323_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500325_R-04.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500325_R-04\\U030905-M-500325_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500326_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 77,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500326_R-03\\U030905-M-500326_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500327_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 67,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500327_R-02\\U030905-M-500327_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500329_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 19,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500329_R-02\\U030905-M-500329_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500331_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500331_R-03\\U030905-M-500331_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500332_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500332_R-02\\U030905-M-500332_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500333_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500333_R-02\\U030905-M-500333_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500334_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500334_R-02\\U030905-M-500334_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500335_R-03.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500335_R-03\\U030905-M-500335_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500336_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500336_R-02\\U030905-M-500336_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500337_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500337_R-02\\U030905-M-500337_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500338_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500338_R-02\\U030905-M-500338_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500339_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500339_R-03\\U030905-M-500339_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500340_R-03.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500340_R-03\\U030905-M-500340_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500341_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500341_R-02\\U030905-M-500341_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500342_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500342_R-02\\U030905-M-500342_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500343_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500343_R-02\\U030905-M-500343_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500344_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500344_R-02\\U030905-M-500344_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500345_R05.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500345_R05\\U030905-M-500345_R05.glb"
+    },
+    {
+      "file": "U030905-M-500347_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500347_R-02\\U030905-M-500347_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500348_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500348_R-02\\U030905-M-500348_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500349_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 14,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500349_R-02\\U030905-M-500349_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500351_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 93,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500351_R-03\\U030905-M-500351_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500356_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 65,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500356_R-03\\U030905-M-500356_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500357_R-04.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 84,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500357_R-04\\U030905-M-500357_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500358_R-03.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 96,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500358_R-03\\U030905-M-500358_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500359_R-05.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500359_R-05\\U030905-M-500359_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500365_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500365_R-03\\U030905-M-500365_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500369_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500369_R-04\\U030905-M-500369_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500373_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 44,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500373_R-03\\U030905-M-500373_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500376_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500376_R-02\\U030905-M-500376_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500377_R-01.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500377_R-01\\U030905-M-500377_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500378_R01.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500378_R01\\U030905-M-500378_R01.glb"
+    },
+    {
+      "file": "U030905-M-500379_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 55,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500379_R-02\\U030905-M-500379_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500381_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500381_R-02\\U030905-M-500381_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500383_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500383_R-02\\U030905-M-500383_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500385_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 39,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500385_R-03\\U030905-M-500385_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500388_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500388_R-02\\U030905-M-500388_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500389_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 13,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500389_R-02\\U030905-M-500389_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500390_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500390_R-02\\U030905-M-500390_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500391_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500391_R-02\\U030905-M-500391_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500393_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500393_R-02\\U030905-M-500393_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500394_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500394_R-02\\U030905-M-500394_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500395_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500395_R-03\\U030905-M-500395_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500396_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500396_R-03\\U030905-M-500396_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500397_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500397_R-02\\U030905-M-500397_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500398_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500398_R-02\\U030905-M-500398_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500399_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500399_R-02\\U030905-M-500399_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500400_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500400_R-02\\U030905-M-500400_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500401_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500401_R-02\\U030905-M-500401_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500402_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500402_R-02\\U030905-M-500402_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500403_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500403_R-02\\U030905-M-500403_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500404_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500404_R-02\\U030905-M-500404_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500405_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500405_R-02\\U030905-M-500405_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500406_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500406_R-02\\U030905-M-500406_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500407_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500407_R-02\\U030905-M-500407_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500408_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500408_R-02\\U030905-M-500408_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500409_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500409_R-02\\U030905-M-500409_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500410_R-03.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500410_R-03\\U030905-M-500410_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500411_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 99,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500411_R-02\\U030905-M-500411_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500412_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 82,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500412_R-02\\U030905-M-500412_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500414_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 91,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500414_R-02\\U030905-M-500414_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500419_R02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 36,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500419_R02\\U030905-M-500419_R02.glb"
+    },
+    {
+      "file": "U030905-M-500420_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 17,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500420_R-02\\U030905-M-500420_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500422_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 64,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500422_R-02\\U030905-M-500422_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500424_ R-02.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500424_ R-02\\U030905-M-500424_ R-02.glb"
+    },
+    {
+      "file": "U030905-M-500426_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 29,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500426_R-02\\U030905-M-500426_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500428_R-03.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 39,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500428_R-03\\U030905-M-500428_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500429_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 43,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500429_R-02\\U030905-M-500429_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500430_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 43,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500430_R-02\\U030905-M-500430_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500431_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500431_R-02\\U030905-M-500431_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500433_R-02.dwg",
+      "ok": true,
+      "layers": 2,
+      "inserts": 40,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500433_R-02\\U030905-M-500433_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500434_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 30,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500434_R-02\\U030905-M-500434_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500435_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 72,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500435_R-02\\U030905-M-500435_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500438_ R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 71,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500438_ R-02\\U030905-M-500438_ R-02.glb"
+    },
+    {
+      "file": "U030905-M-500439_ R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500439_ R-02\\U030905-M-500439_ R-02.glb"
+    },
+    {
+      "file": "U030905-M-500440_ R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 56,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500440_ R-02\\U030905-M-500440_ R-02.glb"
+    },
+    {
+      "file": "U030905-M-500444_R-01.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500444_R-01\\U030905-M-500444_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500454_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 37,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500454_R-02\\U030905-M-500454_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500455_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 63,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500455_R-02\\U030905-M-500455_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500458_R-02.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500458_R-02\\U030905-M-500458_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500459_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500459_R-02\\U030905-M-500459_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500460_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500460_R-02\\U030905-M-500460_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500467_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 50,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500467_R-02\\U030905-M-500467_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500469_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 40,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500469_R-02\\U030905-M-500469_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500472_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 21,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500472_R-02\\U030905-M-500472_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500475_R-01.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 21,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500475_R-01\\U030905-M-500475_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500478_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500478_R-02\\U030905-M-500478_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500479_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500479_R-02\\U030905-M-500479_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500480_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 22,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500480_R-02\\U030905-M-500480_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500484_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500484_R-02\\U030905-M-500484_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500485_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500485_R-02\\U030905-M-500485_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500486_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500486_R-02\\U030905-M-500486_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500489_R-02.dwg",
+      "ok": true,
+      "layers": 43,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500489_R-02\\U030905-M-500489_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500511_R-03.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 13,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500511_R-03\\U030905-M-500511_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500513_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 20,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500513_R-02\\U030905-M-500513_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500514_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 96,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500514_R-02\\U030905-M-500514_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500515_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 45,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500515_R-02\\U030905-M-500515_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500517_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 31,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500517_R-02\\U030905-M-500517_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500518_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 48,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500518_R-02\\U030905-M-500518_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500523_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 79,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500523_R-03\\U030905-M-500523_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500524_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500524_R-03\\U030905-M-500524_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500525_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 28,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500525_R-03\\U030905-M-500525_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500533_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500533_R-02\\U030905-M-500533_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500534_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500534_R-02\\U030905-M-500534_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500537_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500537_R-02\\U030905-M-500537_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500538_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500538_R-02\\U030905-M-500538_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500542_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500542_R-02\\U030905-M-500542_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500543_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 37,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500543_R-02\\U030905-M-500543_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500544_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500544_R-02\\U030905-M-500544_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500545_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500545_R-02\\U030905-M-500545_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500546_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500546_R-02\\U030905-M-500546_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500547_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500547_R-02\\U030905-M-500547_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500553-R1.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500553-R1\\U030905-M-500553-R1.glb"
+    },
+    {
+      "file": "U030905-M-500554_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500554_R-02\\U030905-M-500554_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500555_R-02.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500555_R-02\\U030905-M-500555_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500556_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500556_R-02\\U030905-M-500556_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500557-R1.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500557-R1\\U030905-M-500557-R1.glb"
+    },
+    {
+      "file": "U030905-M-500558_R-03.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 62,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500558_R-03\\U030905-M-500558_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500559_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 37,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500559_R-02\\U030905-M-500559_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500590_R-01.dwg",
+      "ok": true,
+      "layers": 19,
+      "inserts": 1,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500590_R-01\\U030905-M-500590_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500591_R-01.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 0,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500591_R-01\\U030905-M-500591_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500597_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500597_R-02\\U030905-M-500597_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500598_R-01.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 35,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500598_R-01\\U030905-M-500598_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500601-R1.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500601-R1\\U030905-M-500601-R1.glb"
+    },
+    {
+      "file": "U030905-M-500610_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 20,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500610_R-02\\U030905-M-500610_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500612_R-01.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500612_R-01\\U030905-M-500612_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500613_R-01.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 19,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500613_R-01\\U030905-M-500613_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500614_R-02.dwg",
+      "ok": true,
+      "layers": 21,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500614_R-02\\U030905-M-500614_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500615_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500615_R-02\\U030905-M-500615_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500616_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500616_R-02\\U030905-M-500616_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500618_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500618_R-03\\U030905-M-500618_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500619_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500619_R-04\\U030905-M-500619_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500620_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500620_R-02\\U030905-M-500620_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500621_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500621_R-02\\U030905-M-500621_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500622_R-03.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500622_R-03\\U030905-M-500622_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500623_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500623_R-02\\U030905-M-500623_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500629_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500629_R-02\\U030905-M-500629_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500627_R-04.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500627_R-04\\U030905-M-500627_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500628_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500628_R-02\\U030905-M-500628_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500630_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 44,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500630_R-03\\U030905-M-500630_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500631_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500631_R-03\\U030905-M-500631_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500632_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500632_R-02\\U030905-M-500632_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500633_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500633_R-02\\U030905-M-500633_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500634_R-03.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500634_R-03\\U030905-M-500634_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500635_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500635_R-02\\U030905-M-500635_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500636_R-04.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 67,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500636_R-04\\U030905-M-500636_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500637_R-05.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 89,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500637_R-05\\U030905-M-500637_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500638_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500638_R-03\\U030905-M-500638_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500639_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500639_R-02\\U030905-M-500639_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500640_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500640_R-02\\U030905-M-500640_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500641_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500641_R-02\\U030905-M-500641_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500642_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500642_R-02\\U030905-M-500642_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500643_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500643_R-02\\U030905-M-500643_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500644_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500644_R-02\\U030905-M-500644_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500645_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500645_R-02\\U030905-M-500645_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500649_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500649_R-02\\U030905-M-500649_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500647_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500647_R-02\\U030905-M-500647_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500648_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500648_R-02\\U030905-M-500648_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500650_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500650_R-02\\U030905-M-500650_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500651_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500651_R-03\\U030905-M-500651_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500652_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500652_R-02\\U030905-M-500652_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500653_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500653_R-02\\U030905-M-500653_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500654_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500654_R-02\\U030905-M-500654_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500655_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500655_R-02\\U030905-M-500655_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500656_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500656_R-03\\U030905-M-500656_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500657_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500657_R-03\\U030905-M-500657_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500658_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500658_R-02\\U030905-M-500658_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500659_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500659_R-02\\U030905-M-500659_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500660_R-04.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500660_R-04\\U030905-M-500660_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500661_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 32,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500661_R-03\\U030905-M-500661_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500662_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500662_R-03\\U030905-M-500662_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500663_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500663_R-03\\U030905-M-500663_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500664_R-04.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 72,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500664_R-04\\U030905-M-500664_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500665_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500665_R-04\\U030905-M-500665_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500666_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500666_R-02\\U030905-M-500666_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500667_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500667_R-02\\U030905-M-500667_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500668_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500668_R-02\\U030905-M-500668_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500669_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500669_R-02\\U030905-M-500669_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500670_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500670_R-02\\U030905-M-500670_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500671_R-04.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500671_R-04\\U030905-M-500671_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500672_R-04.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500672_R-04\\U030905-M-500672_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500673_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500673_R-02\\U030905-M-500673_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500674_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500674_R-02\\U030905-M-500674_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500675_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500675_R-02\\U030905-M-500675_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500677_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500677_R-02\\U030905-M-500677_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500678_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 10,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500678_R-02\\U030905-M-500678_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500680_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500680_R-02\\U030905-M-500680_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500681_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500681_R-02\\U030905-M-500681_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500682_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500682_R-02\\U030905-M-500682_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500683_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500683_R-02\\U030905-M-500683_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500694_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500694_R-02\\U030905-M-500694_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500685_R-03.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500685_R-03\\U030905-M-500685_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500686_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500686_R-02\\U030905-M-500686_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500687_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500687_R-02\\U030905-M-500687_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500688_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500688_R-02\\U030905-M-500688_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500689_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500689_R-02\\U030905-M-500689_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500690_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500690_R-02\\U030905-M-500690_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500691_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500691_R-02\\U030905-M-500691_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500694_R-03.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500694_R-03\\U030905-M-500694_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500695_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500695_R-02\\U030905-M-500695_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500596_R-00.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500596_R-00\\U030905-M-500596_R-00.glb"
+    },
+    {
+      "file": "U030905-M-500697_R-00-HOLD.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 27,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500697_R-00-HOLD\\U030905-M-500697_R-00-HOLD.glb"
+    },
+    {
+      "file": "U030905-M-500698_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500698_R-02\\U030905-M-500698_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500699_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500699_R-02\\U030905-M-500699_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500700_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 24,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500700_R-02\\U030905-M-500700_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500705_R-03.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500705_R-03\\U030905-M-500705_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500707_R-02.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500707_R-02\\U030905-M-500707_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500708_R-02.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500708_R-02\\U030905-M-500708_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500709_R-03.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500709_R-03\\U030905-M-500709_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500710_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 28,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500710_R-02\\U030905-M-500710_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500720_R-02.dwg",
+      "ok": true,
+      "layers": 1,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500720_R-02\\U030905-M-500720_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500721_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500721_R-02\\U030905-M-500721_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500723_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500723_R-03\\U030905-M-500723_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500724_R-03.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500724_R-03\\U030905-M-500724_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500725_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500725_R-02\\U030905-M-500725_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500726_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500726_R-02\\U030905-M-500726_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500727_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 17,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500727_R-02\\U030905-M-500727_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500728_R-05.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 72,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500728_R-05\\U030905-M-500728_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500729_R-02.dwg",
+      "ok": true,
+      "layers": 19,
+      "inserts": 20,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500729_R-02\\U030905-M-500729_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500731_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 12,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500731_R-02\\U030905-M-500731_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500733_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500733_R-02\\U030905-M-500733_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500735_R-03.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500735_R-03\\U030905-M-500735_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500738_R-04.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500738_R-04\\U030905-M-500738_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500739_R-03.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 99,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500739_R-03\\U030905-M-500739_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500740_R-04.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 16,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500740_R-04\\U030905-M-500740_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500741_R-04.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 29,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500741_R-04\\U030905-M-500741_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500742_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 47,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500742_R-03\\U030905-M-500742_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500743-R1.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 17,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500743-R1\\U030905-M-500743-R1.glb"
+    },
+    {
+      "file": "U030905-M-500745_R-04.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 39,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500745_R-04\\U030905-M-500745_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500746_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 14,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500746_R-02\\U030905-M-500746_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500749_R-03.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 83,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500749_R-03\\U030905-M-500749_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500750_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 32,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500750_R-02\\U030905-M-500750_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500751_R-03.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500751_R-03\\U030905-M-500751_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500752_R-03.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 53,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500752_R-03\\U030905-M-500752_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500753_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 44,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500753_R-02\\U030905-M-500753_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500754_R02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 52,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500754_R02\\U030905-M-500754_R02.glb"
+    },
+    {
+      "file": "U030905-M-500755_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 47,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500755_R-02\\U030905-M-500755_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500760_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500760_R-02\\U030905-M-500760_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500762_R-03.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500762_R-03\\U030905-M-500762_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500764_R-02.dwg",
+      "ok": true,
+      "layers": 21,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500764_R-02\\U030905-M-500764_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500766_R-04.dwg",
+      "ok": true,
+      "layers": 19,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500766_R-04\\U030905-M-500766_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500768_R-03.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500768_R-03\\U030905-M-500768_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500770_R-04.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 63,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500770_R-04\\U030905-M-500770_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500771_R-02.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 89,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500771_R-02\\U030905-M-500771_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500773_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 47,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500773_R-02\\U030905-M-500773_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500775_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 45,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500775_R-02\\U030905-M-500775_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500777_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 46,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500777_R-02\\U030905-M-500777_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500779_R-02.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 51,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500779_R-02\\U030905-M-500779_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500781-R-03.dwg",
+      "ok": true,
+      "layers": 22,
+      "inserts": 52,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500781-R-03\\U030905-M-500781-R-03.glb"
+    },
+    {
+      "file": "U030905-M-500782_R-01.dwg",
+      "ok": true,
+      "layers": 22,
+      "inserts": 49,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500782_R-01\\U030905-M-500782_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500789_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 42,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500789_R-02\\U030905-M-500789_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500791_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 30,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500791_R-02\\U030905-M-500791_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500792_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500792_R-02\\U030905-M-500792_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500793_R-02.dwg",
+      "ok": true,
+      "layers": 5,
+      "inserts": 66,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500793_R-02\\U030905-M-500793_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500794_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 70,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500794_R-02\\U030905-M-500794_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500796_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 86,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500796_R-02\\U030905-M-500796_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500799_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 78,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500799_R-02\\U030905-M-500799_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500803_R-03.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 58,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500803_R-03\\U030905-M-500803_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500805_R-03.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500805_R-03\\U030905-M-500805_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500807_R-03.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500807_R-03\\U030905-M-500807_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500808_R-04.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500808_R-04\\U030905-M-500808_R-04.glb"
+    },
+    {
+      "file": "U030905-M-500809_R-03.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500809_R-03\\U030905-M-500809_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500811_R-02.dwg",
+      "ok": true,
+      "layers": 15,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500811_R-02\\U030905-M-500811_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500813_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500813_R-03\\U030905-M-500813_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500817_R-02.dwg",
+      "ok": true,
+      "layers": 41,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500817_R-02\\U030905-M-500817_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500820_R-02.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 41,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500820_R-02\\U030905-M-500820_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500821_R-03.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500821_R-03\\U030905-M-500821_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500827_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 8,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500827_R-02\\U030905-M-500827_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500829_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500829_R-02\\U030905-M-500829_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500830_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500830_R-02\\U030905-M-500830_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500832_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 6,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500832_R-02\\U030905-M-500832_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500833_R-02.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 1,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500833_R-02\\U030905-M-500833_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500834_R-02.dwg",
+      "ok": true,
+      "layers": 4,
+      "inserts": 1,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500834_R-02\\U030905-M-500834_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500837_R-05.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 90,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500837_R-05\\U030905-M-500837_R-05.glb"
+    },
+    {
+      "file": "U030905-M-500839_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 63,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500839_R-02\\U030905-M-500839_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500841_R-02.dwg",
+      "ok": true,
+      "layers": 14,
+      "inserts": 9,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500841_R-02\\U030905-M-500841_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500843_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500843_R-02\\U030905-M-500843_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500853_R-02.dwg",
+      "ok": true,
+      "layers": 16,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500853_R-02\\U030905-M-500853_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500854_R-02.dwg",
+      "ok": true,
+      "layers": 17,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500854_R-02\\U030905-M-500854_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500855_R-02.dwg",
+      "ok": true,
+      "layers": 12,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500855_R-02\\U030905-M-500855_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500856_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 53,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500856_R-02\\U030905-M-500856_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500857_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 26,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500857_R-02\\U030905-M-500857_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500859_R-03.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 44,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500859_R-03\\U030905-M-500859_R-03.glb"
+    },
+    {
+      "file": "U030905-M-500865_R-02.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 35,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500865_R-02\\U030905-M-500865_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500867_R-02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 19,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500867_R-02\\U030905-M-500867_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500868_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500868_R-02\\U030905-M-500868_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500869_R-02.DWG",
+      "ok": true,
+      "layers": 7,
+      "inserts": 15,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500869_R-02\\U030905-M-500869_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500872_R-02.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500872_R-02\\U030905-M-500872_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500873_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 28,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500873_R-02\\U030905-M-500873_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500874_R04.dwg",
+      "ok": true,
+      "layers": 3,
+      "inserts": 2,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500874_R04\\U030905-M-500874_R04.glb"
+    },
+    {
+      "file": "U030905-M-500875-R1.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 5,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500875-R1\\U030905-M-500875-R1.glb"
+    },
+    {
+      "file": "U030905-M-500876-R1.dwg",
+      "ok": true,
+      "layers": 6,
+      "inserts": 4,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500876-R1\\U030905-M-500876-R1.glb"
+    },
+    {
+      "file": "U030905-M-500878_R01.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 3,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500878_R01\\U030905-M-500878_R01.glb"
+    },
+    {
+      "file": "U030905-M-500901_R-02.dwg",
+      "ok": true,
+      "layers": 13,
+      "inserts": 100,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500901_R-02\\U030905-M-500901_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500902-R02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 57,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500902-R02\\U030905-M-500902-R02.glb"
+    },
+    {
+      "file": "U030905-M-500903-R02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 54,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500903-R02\\U030905-M-500903-R02.glb"
+    },
+    {
+      "file": "U030905-M-500904-R02.dwg",
+      "ok": true,
+      "layers": 9,
+      "inserts": 28,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500904-R02\\U030905-M-500904-R02.glb"
+    },
+    {
+      "file": "U030905-M-500905_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 40,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500905_R-02\\U030905-M-500905_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500906_R-02.dwg",
+      "ok": true,
+      "layers": 8,
+      "inserts": 18,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500906_R-02\\U030905-M-500906_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500907_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 14,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500907_R-02\\U030905-M-500907_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500908_R-02.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 11,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500908_R-02\\U030905-M-500908_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500910_R-02.dwg",
+      "ok": true,
+      "layers": 7,
+      "inserts": 7,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500910_R-02\\U030905-M-500910_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500911_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 90,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500911_R-02\\U030905-M-500911_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500912_R-02.dwg",
+      "ok": true,
+      "layers": 11,
+      "inserts": 52,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500912_R-02\\U030905-M-500912_R-02.glb"
+    },
+    {
+      "file": "U030905-M-500914_R-06.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 17,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500914_R-06\\U030905-M-500914_R-06.glb"
+    },
+    {
+      "file": "U030905-M-500915_R-01.dwg",
+      "ok": true,
+      "layers": 18,
+      "inserts": 24,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500915_R-01\\U030905-M-500915_R-01.glb"
+    },
+    {
+      "file": "U030905-M-500916_R-01.dwg",
+      "ok": true,
+      "layers": 10,
+      "inserts": 35,
+      "glb": "C:\\Users\\israe.MAGALHÃES_NOTE\\OneDrive\\Desktop\\Github\\LocalStudies_IA\\exports\\ZTK\\U030905-M-500916_R-01\\U030905-M-500916_R-01.glb"
+    }
+  ]
+}

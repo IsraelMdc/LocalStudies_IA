@@ -1,0 +1,114 @@
+{
+  "version": "1.1",
+  "strategy": "master_servos_lm_link",
+  "nodes": {
+    "berinjela": {
+      "device_id": "c9d558e8a7f1ab7610cba197267c4d38",
+      "host_label": "berinjela",
+      "gpu": "NVIDIA RTX 2000 Ada Generation",
+      "vram_gb": 15.6,
+      "ram_gb": 30.8,
+      "role": "coder_3d",
+      "description": "Servo 1 (Preferred): Modelagem 3D interativa no Blender MCP e geração de scripts bpy detalhados.",
+      "recommended_model": "lmstudio-community/Qwen3-14B-GGUF@Q4_K_M",
+      "alternative_models": [
+        "lmstudio-community/Qwen2.5-Coder-14B-Instruct-GGUF@Q5_K_M",
+        "unsloth/Qwen3-14B-GGUF@Q5_K_M"
+      ],
+      "huggingface_urls": [
+        "https://huggingface.co/lmstudio-community/Qwen3-14B-GGUF",
+        "https://huggingface.co/Qwen/Qwen3-14B-GGUF",
+        "https://huggingface.co/lmstudio-community/Qwen2.5-Coder-14B-Instruct-GGUF"
+      ],
+      "lms_get_command": "lms get lmstudio-community/Qwen3-14B-GGUF@Q4_K_M --gguf -y",
+      "fallback_model": "qwen2.5-coder-7b-instruct",
+      "context_length": 24576,
+      "gpu_offload": "max",
+      "thinking_mode": false
+    },
+    "nixos_ada": {
+      "device_id": "8d27c8a9351745605bfede9f7cd6dc07",
+      "host_label": "nixos (RTX 2000 Ada)",
+      "gpu": "NVIDIA RTX 2000 Ada Generation",
+      "vram_gb": 15.6,
+      "ram_gb": 31.0,
+      "role": "dwg_planner",
+      "description": "Servo 2: Planejamento de engenharia CAD/DWG, estruturação de notas no Cofre Obsidian e failover do Servo 1.",
+      "recommended_model": "unsloth/Qwen3-14B-GGUF@Q5_K_M",
+      "alternative_models": [
+        "lmstudio-community/Qwen3-30B-A3B-GGUF@Q3_K_L",
+        "bartowski/Qwen_Qwen3-14B-GGUF@Q5_K_M"
+      ],
+      "huggingface_urls": [
+        "https://huggingface.co/lmstudio-community/Qwen3-30B-A3B-GGUF",
+        "https://huggingface.co/unsloth/Qwen3-14B-GGUF",
+        "https://huggingface.co/bartowski/Qwen_Qwen3-14B-GGUF"
+      ],
+      "lms_get_command": "lms get unsloth/Qwen3-14B-GGUF@Q5_K_M --gguf -y",
+      "fallback_model": "qwen2.5-7b-instruct",
+      "context_length": 24576,
+      "gpu_offload": "max",
+      "thinking_mode": true
+    },
+    "nixos_4060": {
+      "device_id": "3a54719e8256bdd028946faa0a585341",
+      "host_label": "nixos (RTX 4060)",
+      "gpu": "NVIDIA GeForce RTX 4060",
+      "vram_gb": 7.6,
+      "ram_gb": 31.0,
+      "role": "vision_audit",
+      "description": "Servo 3: Leitura multimodal dos 229 .tif / 86 .pdf da Samarco e auditoria de screenshots da Viewport do Blender.",
+      "recommended_model": "unsloth/Qwen2.5-VL-7B-Instruct-GGUF@Q4_K_M",
+      "alternative_models": [
+        "bartowski/Qwen_Qwen2.5-VL-7B-Instruct-GGUF@Q4_K_M"
+      ],
+      "huggingface_urls": [
+        "https://huggingface.co/unsloth/Qwen2.5-VL-7B-Instruct-GGUF",
+        "https://huggingface.co/bartowski/Qwen_Qwen2.5-VL-7B-Instruct-GGUF"
+      ],
+      "lms_get_command": "lms get unsloth/Qwen2.5-VL-7B-Instruct-GGUF@Q4_K_M --gguf -y",
+      "fallback_model": "gemma-4-e4b-it-qat",
+      "context_length": 8192,
+      "gpu_offload": "max",
+      "thinking_mode": false
+    },
+    "nuttec": {
+      "device_id": "98c80cdab4b745a990b39b3c7662ff27",
+      "host_label": "nuttec",
+      "gpu": "NVIDIA GeForce RTX 4060",
+      "vram_gb": 7.6,
+      "ram_gb": 31.0,
+      "role": "embeddings_rag",
+      "description": "Servo 4: Embeddings/RAG sobre o Cofre Obsidian e os 2.195 arquivos Samarco + modelo rápido de triagem.",
+      "recommended_model": "text-embedding-bge-m3",
+      "companion_fast_llm": "lmstudio-community/Qwen3-4B-GGUF@Q4_K_M",
+      "huggingface_urls": [
+        "https://huggingface.co/lm-kit/bge-m3-gguf",
+        "https://huggingface.co/cstr/bge-m3-GGUF",
+        "https://huggingface.co/lmstudio-community/Qwen3-4B-GGUF",
+        "https://huggingface.co/lmstudio-community/Qwen3-8B-GGUF"
+      ],
+      "lms_get_command": "lms get text-embedding-bge-m3 -y && lms get lmstudio-community/Qwen3-4B-GGUF@Q4_K_M --gguf -y",
+      "fallback_model": "text-embedding-nomic-embed-text-v1.5",
+      "context_length": 8192,
+      "gpu_offload": "max",
+      "thinking_mode": false
+    },
+    "magalhaes_note": {
+      "device_id": "local",
+      "host_label": "Magalhães_note (Mestre)",
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "vram_gb": 8.0,
+      "ram_gb": 15.7,
+      "role": "workstation",
+      "description": "Mestre Local: VS Code, Blender + Blender MCP, ezdxf, Cofre Obsidian. Sem LLM residente durante modelagem 3D.",
+      "recommended_model": "none",
+      "huggingface_urls": [],
+      "lms_get_command": "lms unload --all",
+      "fallback_model": "qwen2.5-coder-7b-instruct",
+      "context_length": 8192,
+      "gpu_offload": "max",
+      "thinking_mode": false
+    }
+  }
+}
